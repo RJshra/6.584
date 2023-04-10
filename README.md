@@ -4,7 +4,7 @@
 
 
 
-## lab 1: MapReduce 
+## lab 1: MapReduce ✔
 
 
 
